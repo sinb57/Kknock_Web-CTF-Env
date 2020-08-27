@@ -15,24 +15,23 @@ Flags change automatically every 3 hours from the start of the competition.
 ## Server
 >  - Install CTFd   
 >  (install it Ubuntu 18.04) Ubuntu 16.04 didn't work   
->  https://github.com/CTFd/CTFd.git
+>  https://github.com/CTFd/CTFd.git   
 
 
->  - Change TimeZone
->  ```
->  ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
->  ```
+>  - Change TimeZone   
+>  ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime   
 
-- Install cron
-```apt-get install -y cron
-```
 
-- Set Crontab
-```crontab -e
-input >> 0 */3 * * * /usr/bin/python3 /home/user/server.py
-(Execute server.py Every 3 hours) save it!
-service cron restart
-```
+>  - Install cron   
+>  apt-get install -y cron   
+
+
+>  - Set Crontab   
+>  crontab -e   
+>  input >> 0 */3 * * * /usr/bin/python3 /home/user/server.py   
+>  (Execute server.py Every 3 hours) save it!   
+>  service cron restart   
+
 
 
 ## Client
