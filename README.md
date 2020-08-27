@@ -20,8 +20,8 @@ https://github.com/CTFd/CTFd.git
 
 - Change TimeZone
 > ```
-ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
-```
+> ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
+> ```
 
 - Install cron
 ```apt-get install -y cron
