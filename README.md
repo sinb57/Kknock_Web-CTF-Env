@@ -17,9 +17,9 @@ https://github.com/CTFd/CTFd.git
 (install it Ubuntu 18.04) Ubuntu 16.04 didn't work
 
 - Change TimeZone
-'''
+```
 ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
-'''
+```
 - Install etc
 apt-get install -y cron
 
