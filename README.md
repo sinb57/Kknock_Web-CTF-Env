@@ -1,12 +1,12 @@
 # K.knock_WebHack_CTF
 
 # Introduction of K.knock WebHack CTF
-This is the club's own competition.
-Competition is held in CTF format. Participants are divided into teams,
-and team members take part with their personal website created during the study.
-Each participant is given a server and a total of 2 flags are stored in the server's "/flag" path and DB.
-Of course, flags within the server score higher than DB flags.
-Flags change automatically every 3 hours from the start of the competition.
+This is the club's own competition.   
+Competition is held in CTF format. Participants are divided into teams,   
+and team members take part with their personal website created during the study.   
+Each participant is given a server and a total of 2 flags are stored in the server's "/flag" path and DB.   
+Of course, flags within the server score higher than DB flags.   
+Flags change automatically every 3 hours from the start of the competition.   
 
 
 # Preparations
