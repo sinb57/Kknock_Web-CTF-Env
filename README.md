@@ -20,7 +20,7 @@ https://github.com/CTFd/CTFd.git
 ```
 ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
 ```
-- Install etc
+- Install cron
 ```
 apt-get install -y cron
 ```
@@ -32,7 +32,7 @@ apt-get install -y cron
 ```
 ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
 ```
-- Install etc
+- Install cron, pip
 ```
 apt-get install -y cron
 apt-get install -y python3-pip
