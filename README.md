@@ -1,6 +1,5 @@
 # K.knock_WebHack_CTF
 
-# Introduction of K.knock WebHack CTF
 This is the club's own competition.   
 Competition is held in CTF format. Participants are divided into teams,   
 and team members take part with their personal website created during the study.   
