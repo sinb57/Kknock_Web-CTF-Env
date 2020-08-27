@@ -24,12 +24,12 @@ except TypeError:
 teams = ['Team A', 'Team B', 'Team C']
 
 names = [['Tester1', 'Tester2', 'Tester3', 'Tester4'],
-    		 ['Tester5', 'Tester6', 'Tester7', 'Tester8'],
-		     ['Tester9', 'Tester10', 'Tester11', 'Tester12']]
+	 ['Tester5', 'Tester6', 'Tester7', 'Tester8'],
+	 ['Tester9', 'Tester10', 'Tester11', 'Tester12']]
 
 nicks = [['nickname1', 'nickname2', 'nickname3', 'nickname4'],
-	       ['nickname5', 'nickname6', 'nickname7', 'nickname8'],
-		     ['nickname9', 'nickname10', 'nickname11'], 'nickname12']]
+	 ['nickname5', 'nickname6', 'nickname7', 'nickname8'],
+	 ['nickname9', 'nickname10', 'nickname11'], 'nickname12']]
 
 
 sql = "insert into challenges (id, name, description, max_attempts, value, category, type, state) values "
