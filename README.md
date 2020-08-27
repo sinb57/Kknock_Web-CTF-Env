@@ -7,7 +7,9 @@ Each participant is given a server and a total of 2 flags are stored in the serv
 Of course, flags within the server score higher than DB flags.   
 Flags change automatically every 3 hours from the start of the competition.   
    
-
+   
+   
+***
 # Preparations
 
 ## Server
