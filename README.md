@@ -13,7 +13,9 @@ Flags change automatically every 3 hours from the start of the competition.
 
 ## Server
 - Install CTFd
+<\br>
 https://github.com/CTFd/CTFd.git
+<\br>
 (install it Ubuntu 18.04) Ubuntu 16.04 didn't work
 
 - Change TimeZone
