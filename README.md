@@ -15,14 +15,15 @@ Flags change automatically every 3 hours from the start of the competition.
 https://github.com/CTFd/CTFd.git
 
 
-> - Change TimeZone
+- Change TimeZone
 > ```
 > ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
 > ```
+
 - Install cron
-```
-apt-get install -y cron
-```
+> ```
+> apt-get install -y cron
+> ```
 
 > Change mode 
 
